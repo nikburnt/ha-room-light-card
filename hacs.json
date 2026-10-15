@@ -1,0 +1,6 @@
+{
+  "name": "Room Light Card",
+  "content_in_root": false,
+  "render_readme": true,
+  "filename": "ha-room-light-card.js"
+}
